@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MoumeneNazi
-- 👀 I’m interested 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on various things 
-- 📫 How to reach me
+- Hi, I’m @MoumeneNazi
+- I’m currently learning 
+- I’m looking to collaborate on various things 
+- How to reach me
 - instagram moumene_v2.1
 - linkedIn Facebook Abdel Moumene BOURRAS
 
